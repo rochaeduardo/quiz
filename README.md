@@ -5,7 +5,7 @@
 
 ###### Esta aplicação foi desenvolvida juntamente com o [Curso de Desenvolvimento WEB com ES6, TypeScript e Angular](https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/).
 
-**Como Rodar a aplicação:** 
+**Como Rodar a aplicação** ▶️
 
 `git clone https://github.com/rochaeduardo/quiz.git`
 
