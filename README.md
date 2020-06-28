@@ -1,27 +1,26 @@
-# MyApp
+# Quiz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
-## Development server
+## Aplicação Quiz perguntas em inglês que deverão ser respondidas em Português.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+###### Esta aplicação foi desenvolvida juntamente com o [Curso de Desenvolvimento WEB com ES6, TypeScript e Angular](https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/).
 
-## Code scaffolding
+Como Rodar a aplicação: 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+`git clone https://github.com/rochaeduardo/quiz.git`
 
-## Build
+`cd quiz`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+`npm start`
 
-## Running unit tests
+`localhost:4200`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+###### Prontinho 🏁
 
-## Running end-to-end tests
+:point_down: Imagens da Aplicação:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![home](https://github.com/rochaeduardo/quiz/blob/master/home.png)
+![progresso](https://github.com/rochaeduardo/quiz/blob/master/progresso.png)
+![Winner](https://github.com/rochaeduardo/quiz/blob/master/winner.png)
+![Loser](https://github.com/rochaeduardo/quiz/blob/master/loser.png)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
