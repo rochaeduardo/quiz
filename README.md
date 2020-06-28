@@ -1,7 +1,7 @@
 # Quiz
 
 
-## Aplicação Quiz perguntas em inglês que deverão ser respondidas em Português.
+## Aplicação Quiz Perguntas em inglês que o usuário deverá traduzir para prosseguir e vencer.
 
 ###### Esta aplicação foi desenvolvida juntamente com o [Curso de Desenvolvimento WEB com ES6, TypeScript e Angular](https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/).
 
